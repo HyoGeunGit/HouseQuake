@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+
+        <item
+            android:id="@+id/myDonate"
+            android:title="MyDonate" />
+        <item
+            android:id="@+id/myBidding"
+            android:title="MyBidding" />
+        <item
+            android:id="@+id/bag"
+            android:title="Bag" />
+        <item
+            android:id="@+id/myRequest"
+            android:title="MyRequest" />
+        <item
+            android:id="@+id/myWallet"
+            android:title="MyWallet" />
+        <item
+            android:id="@+id/logout"
+            android:title="LogOut" />
+
+    </group>
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/close"
+            android:icon="@drawable/ic_close_black_24dp"
+            android:title="Close" />
+
+    </group>
+
+</menu>
