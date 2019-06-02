@@ -1,5 +1,18 @@
 # AngelHack2019
 
+
+## Build
+
+[![Build Status](https://travis-ci.org/ReactiveX/RxKotlin.svg?branch=2.x)](https://travis-ci.org/ReactiveX/RxKotlin)
+
+
+## Binaries
+
+
+Binaries and dependency information for Maven, Ivy, Gradle and others can be found at [http://search.maven.org](http://search.maven.org/#search%7Cga%7C1%7Crxkotlin).
+
+
+
 # Earthquake: IBM Call for Code
 
 AngelHack Hackathon Seoul, June 2019 <br>
@@ -24,6 +37,7 @@ Thank you. 고맙습니다 (gomabseubnida).
 
 # Questions (Optional)
 20% of the buildings designed to resist to a particular level of external <br>influence fail because of aging. 
+
 
 
 
@@ -89,17 +103,6 @@ Use RxKotlin 1.x versions to target RxJava 1.x.
 Use RxKotlin 2.x versions to target RxJava 2.x.
 
 The maintainers do not update the RxJava dependency version for every RxJava release, so you should explicitly add the desired RxJava dependency version to your `pom.xml` or `build.gradle`.
-
-## Build
-
-[![Build Status](https://travis-ci.org/ReactiveX/RxKotlin.svg?branch=2.x)](https://travis-ci.org/ReactiveX/RxKotlin)
-
-
-## Binaries
-
-
-Binaries and dependency information for Maven, Ivy, Gradle and others can be found at [http://search.maven.org](http://search.maven.org/#search%7Cga%7C1%7Crxkotlin).
-
 
 ### RxKotlin 2.x [![Maven Central](https://maven-badges.herokuapp.com/maven-central/io.reactivex.rxjava2/rxkotlin/badge.svg)](https://maven-badges.herokuapp.com/maven-central/io.reactivex.rxjava2/rxkotlin)
 
