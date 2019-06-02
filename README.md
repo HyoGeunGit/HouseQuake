@@ -266,20 +266,3 @@ Maybes.zip()
 ## Usage with Other Rx Libraries
 
 RxKotlin can be used in conjunction with other Rx and Kotlin libraries, such as [RxAndroid](https://github.com/ReactiveX/RxAndroid), [RxBinding](https://github.com/JakeWharton/RxBinding), and [TornadoFX](https://github.com/edvin/tornadofx)/[RxKotlinFX](https://github.com/thomasnield/RxKotlinFX). These libraries and RxKotlin are modular, and RxKotlin is merely a set of extension functions to RxJava that can be used with these other libraries. There should be no overlap or dependency issues. 
-
-
-## Other Resources
-
-### _Learning RxJava_ Packt Book
-
-Chapter 12 of [_Learning RxJava_](https://www.packtpub.com/application-development/learning-rxjava) covers RxKotlin and Kotlin idioms with RxJava. 
-
-[![](https://d255esdrn735hr.cloudfront.net/sites/default/files/imagecache/ppv4_main_book_cover/B06263_cover.png)](https://www.packtpub.com/application-development/learning-rxjava) 
-
-### _Reactive Programming in Kotlin_ Packt Book
-
-The book [_Reactive Programming in Kotlin_](https://www.packtpub.com/application-development/reactive-programming-kotlin) mainly focuses on RxKotlin, as well as learning reactive programming with Kotlin. 
-
-[![](https://i.imgur.com/0GjGMn5.png)](https://www.packtpub.com/application-development/reactive-programming-kotlin) 
-
-
